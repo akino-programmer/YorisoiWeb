@@ -45,14 +45,127 @@ a{
 }
 
 .step_1 {
-  width: 100%;
+  width: 80%;
   max-width: 1000px;
   display: flex;
   justify-content: center;
-  margin-top: 20px; /* Add margin to create space between sections */
+  margin-top: 40px; /* Add margin to create space between sections */
+}
+
+.step_1_paragraph {
+  width: 100%;
+  text-align: left;
+}
+
+.step_1_title {
+  width: 100%;
+  font-size: 24px;
+  font-weight: bold;
 }
 
 .step_1_text {
   width: 100%;
-  text-align: center;
+  font-size: 24px;
+}
+
+.step_2 {
+  width: 80%;
+  max-width: 1000px;
+  display: flex;
+  justify-content: center;
+  margin-top: 40px; /* Add margin to create space between sections */
+}
+
+.step_2_paragraph {
+  width: 100%;
+  text-align: left;
+}
+
+.step_2_title {
+  width: 100%;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.step_2_text {
+  width: 100%;
+  font-size: 24px;
+}
+
+.step_2_sub_title_first {
+  width: 100%;
+  font-size: 24px;
+  margin-top: 8px;
+}
+
+.step_3 {
+  width: 80%;
+  max-width: 1000px;
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.step_3_paragraph {
+  width: 100%;
+  text-align: left;
+}
+
+.step_3_title {
+  width: 100%;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.step_3_text {
+  width: 100%;
+  font-size: 24px;
+}
+
+.step_3_sub_title_first {
+  width: 100%;
+  font-size: 24px;
+  margin-top: 8px;
+}
+
+.step_3_sub_title_second {
+  width: 100%;
+  font-size: 24px;
+  margin-top: 8px;
+}
+
+.step_4 {
+  width: 80%;
+  max-width: 1000px;
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.step_4_paragraph {
+  width: 100%;
+  text-align: left;
+}
+
+.step_4_title {
+  width: 100%;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.step_4_text {
+  width: 100%;
+  font-size: 24px;
+}
+
+.step_4_sub_title_first {
+  width: 100%;
+  font-size: 24px;
+  margin-top: 8px;
+}
+
+.step_4_sub_title_second {
+  width: 100%;
+  font-size: 24px;
+  margin-top: 8px;
 }
