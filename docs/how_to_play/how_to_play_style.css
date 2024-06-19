@@ -49,7 +49,7 @@ a{
   max-width: 1000px;
   display: flex;
   justify-content: center;
-  margin-top: 40px; /* Add margin to create space between sections */
+  margin-top: 40px;
 }
 
 .step_1_paragraph {
@@ -65,7 +65,8 @@ a{
 
 .step_1_text {
   width: 100%;
-  font-size: 24px;
+  font-size: 16px;
+  margin-top: 8px;
 }
 
 .step_2 {
@@ -73,7 +74,7 @@ a{
   max-width: 1000px;
   display: flex;
   justify-content: center;
-  margin-top: 40px; /* Add margin to create space between sections */
+  margin-top: 40px;
 }
 
 .step_2_paragraph {
@@ -89,12 +90,13 @@ a{
 
 .step_2_text {
   width: 100%;
-  font-size: 24px;
+  font-size: 16px;
+  margin-top: 8px;
 }
 
 .step_2_sub_title_first {
   width: 100%;
-  font-size: 24px;
+  font-size: 16px;
   margin-top: 8px;
 }
 
@@ -119,18 +121,19 @@ a{
 
 .step_3_text {
   width: 100%;
-  font-size: 24px;
+  font-size: 16px;
+  margin-top: 8px;
 }
 
 .step_3_sub_title_first {
   width: 100%;
-  font-size: 24px;
+  font-size: 16px;
   margin-top: 8px;
 }
 
 .step_3_sub_title_second {
   width: 100%;
-  font-size: 24px;
+  font-size: 16px;
   margin-top: 8px;
 }
 
@@ -140,6 +143,7 @@ a{
   display: flex;
   justify-content: center;
   margin-top: 40px;
+  margin-bottom: 40px;
 }
 
 .step_4_paragraph {
@@ -155,17 +159,18 @@ a{
 
 .step_4_text {
   width: 100%;
-  font-size: 24px;
+  font-size: 16px;
+  margin-top: 8px;
 }
 
 .step_4_sub_title_first {
   width: 100%;
-  font-size: 24px;
+  font-size: 16px;
   margin-top: 8px;
 }
 
 .step_4_sub_title_second {
   width: 100%;
-  font-size: 24px;
+  font-size: 16px;
   margin-top: 8px;
 }
